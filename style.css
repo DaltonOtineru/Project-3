@@ -1,0 +1,52 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+#bootstrap-overides {
+	background-color: rgba(187, 187, 181, 0.7);
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+ 
+
+ /** Text section **/
+
+#text-section {
+	background-color: #ffffff;
+
+}
+
+/** End text section **/
+
+
+
+
+/** shapes imgs **/
+
+#shapes img {
+	margin:  0 auto;
+}
+
+
+/** end shapes imgs **/
+
+
+
+
+
+
+/** popular post section **/
+
+#popular-posts {
+	background-color: #ffffff;
+}
+
+#popular-posts img {
+	padding: 1rem;
+	max-width: 100%;
+}
+
+/** end popular post section **/
